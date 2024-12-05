@@ -1,5 +1,7 @@
 # movies
 Below is a list of recommended movies that I've never seen (and would like to watch), in alphabetical order.
+And since I am lacking in any Bond knowledge...Ken has decided to supply the must-see bond list.
+reference from - http://www.digitalspy.com/movies/james-bond-007/feature/a671519/which-bond-movie-is-best-the-definitive-007-film-ranking-from-awful-to-awesome/
 
 ##### &#x23;
 * [ ] [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/?ref_=nv_sr_1) (1968)
